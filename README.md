@@ -1,11 +1,38 @@
-Hi, I'm Rehan Ali 👋
-Junior Backend Developer | SE Student
+# Hi, I'm Rehan Ali 👋
 
-🔭 I’m currently working on a Learning Management System (CLMS) using PHP and MySQL.
-🌱 I’m learning Advanced C++ and Network Security.
-⚡ Availability: I am available for remote roles in US/Canada time zones (EST/CST) during my night shift (7 PM - 5 AM PKT).
+BS Software Engineering Student at Air University (NASTP Institute of Information Technology, Lahore)
 
-Tech Stack:
-Languages: PHP, C++, SQL
+## Interests
+- Software Engineering
+- System Administration
+- Computer Networking
+- Linux Systems
+- Virtualization
+- Artificial Intelligence
 
-Tools: MySQL, Cisco Packet Tracer, Wireshark, SFML
+## Currently Working With
+- Ubuntu Linux
+- VMware
+- Proxmox
+- Apache
+- Nginx
+- Tailscale
+- Cisco Packet Tracer
+- Git & GitHub
+
+## Languages & Technologies
+- C
+- C++
+- C#
+- Python
+- PHP
+- MySQL
+- Laravel
+
+## Projects
+- IoT Network Log Analyzer
+- Learning Management System (LMS)
+- Home Lab Infrastructure
+
+## Current Goal
+Seeking internship opportunities in Software Engineering, System Administration, and Enterprise IT Infrastructure.
