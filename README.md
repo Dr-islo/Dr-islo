@@ -65,7 +65,7 @@ I learn by building things myself:
 │  Code        Python · C++ · C# · Java · Rust · PHP           │
 │                                                              │
 │  $ systemctl status engineering                              │
-│  ● ACTIVE                                                     │
+│  ● ACTIVE                                                    │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
