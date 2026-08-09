@@ -2,18 +2,18 @@
 
 # REHAN ALI
 
-### `Software Engineering Student` · `Systems` · `Networking` · `Infrastructure`
+### `Software Engineering` · `Systems` · `Networking` · `Infrastructure`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=6C4DFF&center=true&vCenter=true&width=700&lines=Building+software.;Engineering+systems.;Working+with+Linux.;Designing+networks.;Automating+infrastructure.;Exploring+AI." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=6C4DFF&center=true&vCenter=true&width=720&lines=Building+software.;Engineering+systems.;Working+with+Linux.;Designing+networks.;Automating+infrastructure.;Exploring+AI." alt="Typing animation" />
 
 <br>
 
 <a href="https://github.com/Dr-islo">
-<img src="https://img.shields.io/badge/GitHub-Dr--islo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Dr--islo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rehan-ali-b80aab278/">
-<img src="https://img.shields.io/badge/LinkedIn-Rehan%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Rehan%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
@@ -26,92 +26,71 @@
 
 ## 👨‍💻 About
 
-I'm a **Software Engineering student** interested in the intersection of software, systems, and infrastructure.
+I'm a **Software Engineering student** interested in the intersection of software, systems, networking, and infrastructure.
 
-I like building things that go beyond a single application — from backend software and network-analysis tools to Linux servers, virtualized environments, and self-hosted infrastructure.
+I enjoy building things that go beyond a single application — from backend software and network-analysis tools to Linux servers, virtualized environments, and self-hosted systems.
 
-My approach is simple:
+I learn by building things myself:
 
-**Learn → Build → Break → Understand → Rebuild**
-
----
-
-## ⚡ Engineering Focus
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 💻
-
-**Software**
-
-Backend
-APIs
-Web Applications
-AI Applications
-
-</td>
-<td width="25%" align="center">
-
-### 🐧
-
-**Systems**
-
-Linux
-Ubuntu
-Servers
-Administration
-
-</td>
-<td width="25%" align="center">
-
-### 🌐
-
-**Networking**
-
-TCP/IP
-DNS
-DHCP
-Firewalls
-
-</td>
-<td width="25%" align="center">
-
-### 🖥️
-
-**Infrastructure**
-
-Proxmox
-VMware
-Tailscale
-Self-hosting
-
-</td>
-</tr>
-</table>
+> **Learn → Build → Break → Understand → Rebuild**
 
 ---
 
-## 🛠️ Technology
+## 🧠 What I Build
 
-### Languages
+| Area               | What I Work On                                                   |
+| :----------------- | :--------------------------------------------------------------- |
+| **Software**       | Backend systems, web applications, APIs, AI-powered applications |
+| **Systems**        | Linux, Ubuntu, servers, system administration                    |
+| **Networking**     | TCP/IP, DNS, DHCP, NAT, firewalls, network monitoring            |
+| **Infrastructure** | Proxmox, VMware, virtualization, self-hosting, remote access     |
+| **Security**       | Network analysis, intrusion detection, infrastructure security   |
+| **AI**             | AI APIs, AI-powered software, ML experimentation                 |
+
+---
+
+## 🖥️ Engineering Terminal
+
+```text
+┌─ rehan@homelab ──────────────────────────────────────────────┐
+│                                                              │
+│  $ neofetch                                                  │
+│                                                              │
+│  OS          Ubuntu / Linux                                  │
+│  Virtual     Proxmox / VMware                                │
+│  Network     TCP/IP · DNS · DHCP · NAT                       │
+│  Security    Firewalls · Network Monitoring                  │
+│  Remote      Tailscale                                       │
+│  Servers     Nginx · Apache                                  │
+│  Code        Python · C++ · C# · Java · Rust · PHP           │
+│                                                              │
+│  $ systemctl status engineering                              │
+│  ● ACTIVE                                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ⚙️ Systems I Work With
+
+### 💻 Software
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 
-### Web & Backend
+### 🌐 Web & Backend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-6C4DFF?style=flat-square)
 
-### Systems & Infrastructure
+### 🐧 Systems & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
@@ -120,7 +99,7 @@ Self-hosting
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square\&logo=apache\&logoColor=white)
 
-### Networking
+### 🌐 Networking
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0F172A?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-0F172A?style=flat-square)
@@ -130,19 +109,22 @@ Self-hosting
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🔐 IoT Network Log Analyzer
 
-Network traffic analysis and intrusion-detection project exploring machine learning and generative AI techniques for IoT environments.
+Network traffic analysis and intrusion detection project exploring machine learning and generative AI techniques for IoT environments.
 
 **Python · Linux · Networking · Security**
 
-<a href="https://github.com/Dr-islo/iot-network-log-analyzer">View Repository →</a>
+<a href="https://github.com/Dr-islo/iot-network-log-analyzer">
+View Repository →
+</a>
 
 </td>
 
@@ -150,25 +132,31 @@ Network traffic analysis and intrusion-detection project exploring machine learn
 
 ### 🖥️ Home Lab Infrastructure
 
-A hands-on infrastructure environment built around virtualization, Linux systems, networking, automation, and secure remote access.
+A hands-on infrastructure environment involving virtualization, Linux systems, networking, automation, and secure remote access.
 
 **Proxmox · Ubuntu · Tailscale**
 
-<a href="https://github.com/Dr-islo">View Projects →</a>
+<a href="https://github.com/Dr-islo">
+View Projects →
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎓 Learning Management System
 
-A full-stack education management platform designed for students, faculty, and administrative workflows.
+A full-stack education management platform for students, faculty, and administrative workflows.
 
 **PHP · Laravel · MySQL**
 
-<a href="https://github.com/Dr-islo/LMS">View Repository →</a>
+<a href="https://github.com/Dr-islo/LMS">
+View Repository →
+</a>
 
 </td>
 
@@ -176,62 +164,60 @@ A full-stack education management platform designed for students, faculty, and a
 
 ### 📱 NetBridge Android
 
-An Android networking project exploring Wi-Fi Direct, proxy communication, and network connectivity.
+An Android networking project exploring Wi-Fi Direct, proxy communication, socket handling, and network connectivity.
 
 **Java · Android · Networking**
 
-<a href="https://github.com/Dr-islo/NetBridge-Android">View Repository →</a>
+<a href="https://github.com/Dr-islo/NetBridge-Android">
+View Repository →
+</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🏠 Homelab
+## 🏠 Home Lab
 
-I learn infrastructure by **actually running infrastructure**.
+I don't just study infrastructure — **I run it.**
 
 My homelab is where I experiment with virtualization, Linux servers, networking, web services, remote access, and automation.
 
 ```text
-                         INTERNET
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    NETWORK    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    PROXMOX    │
-                    └───────┬───────┘
-                            │
-                 ┌──────────┼──────────┐
-                 │          │          │
-                 ▼          ▼          ▼
-              UBUNTU     SERVERS    SERVICES
-                 │
-                 ▼
-             TAILSCALE
-                 │
-                 ▼
-          SECURE REMOTE ACCESS
+                         ┌──────────────┐
+                         │   INTERNET   │
+                         └──────┬───────┘
+                                │
+                         ┌──────▼───────┐
+                         │    NETWORK   │
+                         └──────┬───────┘
+                                │
+                       ┌────────▼────────┐
+                       │     PROXMOX     │
+                       └────────┬────────┘
+                                │
+                    ┌───────────┼───────────┐
+                    │           │           │
+               ┌────▼────┐ ┌────▼────┐ ┌────▼────┐
+               │ Ubuntu  │ │ Servers │ │Services │
+               └────┬────┘ └─────────┘ └─────────┘
+                    │
+               ┌────▼─────┐
+               │ Tailscale│
+               └────┬─────┘
+                    │
+             SECURE REMOTE ACCESS
 ```
 
-**Areas I work with:**
+### Infrastructure Areas
 
-* Linux server administration
-* Virtualization
-* Web servers
-* Networking services
-* Secure remote access
-* Self-hosted applications
-* Infrastructure automation
+`Linux` · `Virtualization` · `Networking` · `Web Servers` · `Self Hosting` · `Remote Access` · `Automation`
 
 ---
 
-## 🚧 Currently Building
+## ⚡ Currently Building
 
 <div align="center">
 
@@ -239,11 +225,15 @@ My homelab is where I experiment with virtualization, Linux servers, networking,
 
 **50+ free online tools for PDFs, images, files & AI**
 
-`Fast` · `Simple` · `Secure`
+`FAST` · `SIMPLE` · `SECURE`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=700&color=6C4DFF&center=true&vCenter=true&width=500&lines=Product+Development;Application+Architecture;Authentication;Infrastructure;Deployment" alt="HugMyTools development animation">
 
 </div>
 
-I'm building HugMyTools as a real-world SaaS platform, working across product development, application architecture, authentication, deployment, infrastructure, and tooling.
+A real-world SaaS project where I'm working across product development, application architecture, authentication, deployment, infrastructure, and tooling.
+
+**→ https://hugmytools.com**
 
 ---
 
@@ -259,27 +249,44 @@ I'm building HugMyTools as a real-world SaaS platform, working across product de
 
 ---
 
-## 🔭 Exploring
+## 🔭 Learning → Building
 
 ```text
-SOFTWARE
-├── Backend Systems
-├── Web Applications
-├── APIs
-└── AI-powered Applications
-
-SYSTEMS
-├── Linux
-├── Server Administration
-├── Virtualization
-└── Automation
-
-NETWORKING
-├── TCP/IP
-├── Network Services
-├── Monitoring
-└── Infrastructure Security
+                 LEARN
+                   │
+                   ▼
+              EXPERIMENT
+                   │
+                   ▼
+                 BUILD
+                   │
+                   ▼
+                DEPLOY
+                   │
+                   ▼
+                BREAK
+                   │
+                   ▼
+              UNDERSTAND
+                   │
+                   ▼
+                REBUILD
+                   │
+                   └──────────────► REPEAT
 ```
+
+I prefer learning technologies by putting them into practice — deploying systems, troubleshooting failures, and understanding what happens underneath the abstraction.
+
+---
+
+## 📡 Areas I'm Exploring
+
+| Systems        | Networking | Software         | Security                |
+| :------------- | :--------- | :--------------- | :---------------------- |
+| Linux          | TCP/IP     | Backend          | Network Monitoring      |
+| Virtualization | DNS        | APIs             | Intrusion Detection     |
+| Servers        | DHCP       | Web Applications | Infrastructure Security |
+| Automation     | Firewalls  | AI Applications  | Log Analysis            |
 
 ---
 
@@ -293,6 +300,10 @@ NETWORKING
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=500&lines=Build.;Break.;Understand.;Rebuild." alt="Engineering philosophy animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=520&lines=%24+git+status;Everything+is+up+to+date.;%24+./build.sh;%E2%9C%93+systems;%E2%9C%93+software;%E2%9C%93+infrastructure" alt="Terminal animation">
+
+<br>
+
+**Build · Break · Understand · Rebuild**
 
 </div>
