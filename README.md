@@ -100,12 +100,12 @@ Deploying and breaking my own services is how I learned what happens after `git 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dr-islo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c5cff&icon_color=7c5cff" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dr-islo&theme=tokyonight" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=Dr-islo&theme=tokyonight&hide_border=true&background=0d1117&ring=7c5cff&fire=7c5cff&currStreakLabel=7c5cff" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dr-islo&bg_color=0d1117&color=c9d1d9&line=7c5cff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution graph"/>
+  <img src="https://ghchart.rshah.org/7c5cff/Dr-islo" width="95%" alt="Contribution chart"/>
 </p>
 
 ---
